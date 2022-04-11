@@ -1,6 +1,6 @@
 ### Olá pessoa, tudo bem? 👋
 
-- 🏫 Esudante de Análise e Desenvolvimeno de Sistemas
+- 🏫 Esudante de Análise e Desenvolvimento de Sistemas
 - 🌱 Aprendendo Java Script
 - 💼 Experiência em Logística
 
