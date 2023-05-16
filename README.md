@@ -1,7 +1,7 @@
 ### Olá pessoa, tudo bem? 👋
 
 - 🏫 Esudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Aprendendo Java Script
+- 🌱 Aprendendo Angular
 - 💼 Experiência em Logística
 
 <div align="center">
